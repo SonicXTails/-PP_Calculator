@@ -1,0 +1,4 @@
+﻿  Calculator_on_CPP.cpp
+D:\Lessons\CП (Никонова Александра Андреевна)\Практическая работы\ПР 2\Calculator\Calculator_on_CPP\Calculator_on_CPP\Calculator_on_CPP.cpp(123,4): warning C4551: в вызове функции отсутствует список аргументов
+D:\Lessons\CП (Никонова Александра Андреевна)\Практическая работы\ПР 2\Calculator\Calculator_on_CPP\Calculator_on_CPP\Calculator_on_CPP.cpp(9,20): warning C4101: ans: неиспользованная локальная переменная
+  Calculator_on_CPP.vcxproj -> D:\Lessons\CП (Никонова Александра Андреевна)\Практическая работы\ПР 2\Calculator\Calculator_on_CPP\x64\Debug\Calculator_on_CPP.exe
